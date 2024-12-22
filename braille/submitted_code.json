@@ -1,0 +1,557 @@
+[
+    {
+        "code": "<html>",
+        "language": "HTML",
+        "timestamp": "2024-12-06 13:31:17"
+    },
+    {
+        "code": "<p><\/p",
+        "language": "HTML",
+        "timestamp": "2024-12-06 13:39:08"
+    },
+    {
+        "code": "<html>",
+        "language": "HTML",
+        "timestamp": "2024-12-06 13:40:17"
+    },
+    {
+        "code": "print(\"Hello\")",
+        "language": "Python",
+        "timestamp": "2024-12-06 13:55:38"
+    },
+    {
+        "code": "inta=\r\nint b=10",
+        "language": "Not selected",
+        "timestamp": "2024-12-06 13:56:26"
+    },
+    {
+        "code": "inta=5\r\nint b=10\r\nres=a+b",
+        "language": "Not selected",
+        "timestamp": "2024-12-06 13:57:15"
+    },
+    {
+        "code": "inta=\r\nint b=10\r\nres=a+b",
+        "language": "Python",
+        "timestamp": "2024-12-06 13:58:16"
+    },
+    {
+        "code": "<html",
+        "language": "HTML",
+        "timestamp": "2024-12-06 14:01:11"
+    },
+    {
+        "code": "<html",
+        "language": "HTML",
+        "timestamp": "2024-12-06 14:10:47"
+    },
+    {
+        "code": "<p\/.",
+        "language": "HTML",
+        "timestamp": "2024-12-06 14:22:14"
+    },
+    {
+        "code": "inta=\r\nint b=10",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:23:32"
+    },
+    {
+        "code": "print(hello)",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:30:51"
+    },
+    {
+        "code": "print(Hello);\r\n",
+        "language": "Not selected",
+        "timestamp": "2024-12-06 14:31:34"
+    },
+    {
+        "code": "int a=10\r\nint b=2\r\nres=a+b\r\nprint(res)",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:33:24"
+    },
+    {
+        "code": "a=10\r\nb=10\r\nres=a+b\r\nprint(res)",
+        "language": "Not selected",
+        "timestamp": "2024-12-06 14:34:15"
+    },
+    {
+        "code": "a=10\r\nb=10\r\nres=a+b\r\nprint(res)",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:35:04"
+    },
+    {
+        "code": "num1=5",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:35:45"
+    },
+    {
+        "code": "num1=10\r\nnum2=20\r\nresult=add_numbers(num1,num2)\r\nprint(result)",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:37:10"
+    },
+    {
+        "code": "n=int(input(\"Enter value for n\")\r\nm=int(input(\"Enter value for m\")\r\np=n+m\r\nprint(p)",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:39:14"
+    },
+    {
+        "code": "num1 = 1.5\r\nnum2 = 6.3\r\n\r\n# Add two numbers\r\nsum = num1 + num2\r\n\r\n# Display the sum\r\nprint('The sum of {0} and {1} is {2}'.format(num1, num2, sum))",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:39:59"
+    },
+    {
+        "code": "num1 = 1.5\r\nnum2 = 6.3\r\nsum = num1 + num2\r\nprint('The sum of {0} and {1} is {2}'.format(num1, num2, sum))",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:41:20"
+    },
+    {
+        "code": "print(hello world)\r\n",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:41:56"
+    },
+    {
+        "code": "print(\"hello world\")",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:42:33"
+    },
+    {
+        "code": "int a=10\r\n",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:43:07"
+    },
+    {
+        "code": "int a=10\r\nprint(a)",
+        "language": "Python",
+        "timestamp": "2024-12-06 14:43:41"
+    },
+    {
+        "code": "<!DOCTYPE html>\r\n<html>\r\n<body>\r\n\r\n<h1>My First Heading<\/h1>\r\n<p>My first paragraph.<\/p>\r\n\r\n<\/body>\r\n<\/html>",
+        "language": "HTML",
+        "timestamp": "2024-12-06 14:44:50"
+    },
+    {
+        "code": "<!DOCTYPE html>\r\n<html>\r\n<body>\r\n<h1>My First Heading<\/h1>\r\n<p>My first paragraph.<\/p>\r\n<\/body>\r\n<\/html>",
+        "language": "HTML",
+        "timestamp": "2024-12-06 14:45:27"
+    },
+    {
+        "code": "<!DOCTYPE html>\r\n<html>\r\n<body>\r\n\r\n<h1>My First Heading<\/h1>\r\n\r\n\r\n<\/body>\r\n<\/html>",
+        "language": "HTML",
+        "timestamp": "2024-12-06 14:46:00"
+    },
+    {
+        "code": "<!DOCTYPE html>\r\n<html>\r\n<body>\r\n<h1>My First Heading<\/h1>\r\n<p>My first paragraph.<\/p>\r\n<\/body>\r\n<\/html>",
+        "language": "HTML",
+        "timestamp": "2024-12-06 14:46:48"
+    },
+    {
+        "code": "int a=10 int b=20 res=a+b print(res)",
+        "language": "Python",
+        "timestamp": "2024-12-07 07:39:36"
+    },
+    {
+        "code": "int x=10 print(x)",
+        "language": "Python",
+        "timestamp": "2024-12-07 10:44:19"
+    },
+    {
+        "code": "int x=10 print(x)",
+        "language": "Python",
+        "timestamp": "2024-12-07 10:45:37"
+    },
+    {
+        "code": "x = 5 y = 10 temp = x x = y y = temp print('The value of x after swapping: {}'.format(x)) print('The value of y after swapping: {}'.format(y))",
+        "language": "Python",
+        "timestamp": "2024-12-07 10:59:20"
+    },
+    {
+        "code": "result = a + b\r\n",
+        "language": "Python",
+        "timestamp": "2024-12-07 11:03:11"
+    },
+    {
+        "code": "int a=10",
+        "language": "Not selected",
+        "timestamp": "2024-12-07 11:03:37"
+    },
+    {
+        "code": "int a=10",
+        "language": "Python",
+        "timestamp": "2024-12-07 11:03:54"
+    },
+    {
+        "code": "<!DOCTYPE html><html><body><h1>Hello, World!<\/h1><\/body><\/html>\r\n",
+        "language": "HTML",
+        "timestamp": "2024-12-07 11:05:28"
+    },
+    {
+        "code": "print(\"Hello world\")",
+        "language": "Python",
+        "timestamp": "2024-12-07 18:18:41"
+    },
+    {
+        "code": "<html>",
+        "language": "HTML",
+        "timestamp": "2024-12-09 12:43:21"
+    },
+    {
+        "code": "<!doctype html>",
+        "language": "HTML",
+        "timestamp": "2024-12-09 12:44:05"
+    },
+    {
+        "code": "print(\"hello\")",
+        "language": "Python",
+        "timestamp": "2024-12-09 12:45:49"
+    },
+    {
+        "code": "inta=10b=11res=a+bprint(res)",
+        "language": "Not selected",
+        "timestamp": "2024-12-09 12:46:51"
+    },
+    {
+        "code": "inta=10b=11res=a+bprint(res)",
+        "language": "Python",
+        "timestamp": "2024-12-09 12:47:23"
+    },
+    {
+        "code": "c=(a+b)",
+        "language": "Python",
+        "timestamp": "2024-12-09 13:17:57"
+    },
+    {
+        "code": "print(a-b)",
+        "language": "Python",
+        "timestamp": "2024-12-09 13:18:49"
+    },
+    {
+        "code": "int a\r\nint b\r\nres=(a+b)",
+        "language": "Not selected",
+        "timestamp": "2024-12-09 13:19:27"
+    },
+    {
+        "code": "int a\r\nint b\r\nres=a+b",
+        "language": "Python",
+        "timestamp": "2024-12-09 13:19:58"
+    },
+    {
+        "code": "int a int b res=(a+b)",
+        "language": "Python",
+        "timestamp": "2024-12-09 13:22:11"
+    },
+    {
+        "code": "c=a-b",
+        "language": "Python",
+        "timestamp": "2024-12-09 13:22:46"
+    },
+    {
+        "code": "c=a-b",
+        "language": "Python",
+        "timestamp": "2024-12-09 13:22:49"
+    },
+    {
+        "code": "c=a-b",
+        "language": "Python",
+        "timestamp": "2024-12-09 14:50:01"
+    },
+    {
+        "code": "int a int b res=(a+b)",
+        "language": "Python",
+        "timestamp": "2024-12-09 14:50:11"
+    },
+    {
+        "code": "res=a+b",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:04:36"
+    },
+    {
+        "code": "<p><\/p>",
+        "language": "HTML",
+        "timestamp": "2024-12-09 15:05:51"
+    },
+    {
+        "code": "res=",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:06:32"
+    },
+    {
+        "code": "res=a*b",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:07:05"
+    },
+    {
+        "code": "if a==b:",
+        "language": "HTML",
+        "timestamp": "2024-12-09 15:07:42"
+    },
+    {
+        "code": "if a==b:",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:08:25"
+    },
+    {
+        "code": "a=10\r\nprint(a)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:08:52"
+    },
+    {
+        "code": "if a==10:",
+        "language": "Not selected",
+        "timestamp": "2024-12-09 15:09:36"
+    },
+    {
+        "code": "if a==10:",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:10:01"
+    },
+    {
+        "code": "if a==10:\r\n        print(a)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:10:53"
+    },
+    {
+        "code": "if a==10:\r\n        print(a)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:10:57"
+    },
+    {
+        "code": "if a==10:\r\n        print(a)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:11:42"
+    },
+    {
+        "code": "if a==10:\r\n       print(a)\r\nelse:",
+        "language": "Not selected",
+        "timestamp": "2024-12-09 15:12:41"
+    },
+    {
+        "code": "if a==10:\r\n       print(a)\r\nelse:\r\n       print(a)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:13:22"
+    },
+    {
+        "code": "if y%4==0:\r\n        l=true",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:14:28"
+    },
+    {
+        "code": "a=false\r\nb=true\r\nprint(a or b)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:16:14"
+    },
+    {
+        "code": "a=false\r\nprint(a or a)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:17:17"
+    },
+    {
+        "code": "a=false\r\nprint(a&&b)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:17:46"
+    },
+    {
+        "code": "a=false\r\nprint(a)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:18:09"
+    },
+    {
+        "code": "if c%2==0:\r\n         print(even)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:19:21"
+    },
+    {
+        "code": "if c%2==0:\r\n         print(even)\r\nelse:\r\n         print(odd)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:20:00"
+    },
+    {
+        "code": "print(hello world)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:20:45"
+    },
+    {
+        "code": "print(Hello world)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:21:19"
+    },
+    {
+        "code": "print(hello)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:21:59"
+    },
+    {
+        "code": "res=a+b",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:22:32"
+    },
+    {
+        "code": "if y>x:\r\n      print(x)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:23:43"
+    },
+    {
+        "code": "#hello world",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:25:20"
+    },
+    {
+        "code": "#hellon world universe",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:26:04"
+    },
+    {
+        "code": "i = 0\r\nwhile i < 5: i += 1",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:27:14"
+    },
+    {
+        "code": "for i in range(2):\r\n             print(i)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:28:28"
+    },
+    {
+        "code": "while i>=1:\r\n         print(i)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:31:57"
+    },
+    {
+        "code": "print(type(x))",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:33:26"
+    },
+    {
+        "code": "a = \"Hello, World!\"\r\nprint(a.upper())",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:34:28"
+    },
+    {
+        "code": "a = \"Hello, World!\"\r\nprint(a.upper())",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:34:51"
+    },
+    {
+        "code": "if 5 > 2:\r\n print(\"Five is greater than two!\")\r\n        print(\"Five is greater than two!\")\r\n",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:35:59"
+    },
+    {
+        "code": "x = 5\r\ny = \"John\"\r\nprint(x)\r\nprint(y)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:37:06"
+    },
+    {
+        "code": "x, y, z = \"Orange\", \"Banana\", \"Cherry\"\r\nprint(x)\r\nprint(y)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:37:33"
+    },
+    {
+        "code": "x = \"awesome\"\r\n\r\ndef myfunc():\r\n  print(\"Python is \" + x)\r\n\r\nmyfunc()",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:38:39"
+    },
+    {
+        "code": "x = str(3)    \r\ny = int(3)    \r\nz = float(3)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:39:32"
+    },
+    {
+        "code": "if 5 > 2:\r\n print(\"Five is greater than two!\") \r\nif 5 > 2:\r\n        print(\"Five is greater than two!\")",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:40:25"
+    },
+    {
+        "code": "x = str(\"Hello World\")",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:41:33"
+    },
+    {
+        "code": "x = list((\"apple\", \"banana\", \"cherry\"))",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:42:13"
+    },
+    {
+        "code": "x = bytearray(5)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:43:03"
+    },
+    {
+        "code": "print(\"It's alright\")",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:43:50"
+    },
+    {
+        "code": "a = \"\"\"Lorem ipsum dolor sit amet,\r\nconsectetur adipiscing elit,\r\nsed do eiusmod tempor incididunt\r\nut labore et dolore magna aliqua.\"\"\"\r\nprint(a)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:44:19"
+    },
+    {
+        "code": "a = \"Hello, World!\"\r\nprint(len(a))",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:44:47"
+    },
+    {
+        "code": "b = \"Hello, World!\"\r\nprint(b[2:5])",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:45:09"
+    },
+    {
+        "code": "b = \"Hello, World!\"\r\nprint(b[2:5])",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:45:15"
+    },
+    {
+        "code": "print(100 + 5 * 3)",
+        "language": "Python",
+        "timestamp": "2024-12-09 15:45:47"
+    },
+    {
+        "code": "<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<title>Page Title<\/title>\r\n<\/head>\r\n<body>\r\n\r\n<h1>This is a Heading<\/h1>\r\n<p>This is a paragraph.<\/p>\r\n\r\n<\/body>\r\n<\/html>",
+        "language": "HTML",
+        "timestamp": "2024-12-09 15:46:21"
+    },
+    {
+        "code": "<h1>My First Heading<\/h1>",
+        "language": "HTML",
+        "timestamp": "2024-12-09 15:47:06"
+    },
+    {
+        "code": "<!DOCTYPE html><html><head><title>Page Title<\\\/title><\\\/head><body><h1>This is a Heading<\\\/h1><p>This is a paragraph.<\\\/p><\\\/body><\\\/html>",
+        "language": "HTML",
+        "timestamp": "2024-12-09 18:51:53"
+    },
+    {
+        "code": "<html>",
+        "language": "HTML",
+        "timestamp": "2024-12-09 18:52:50"
+    },
+    {
+        "code": "print(hello world",
+        "language": "Python",
+        "timestamp": "2024-12-11 08:06:30"
+    },
+    {
+        "code": "print(hello world",
+        "language": "Python",
+        "timestamp": "2024-12-11 08:07:26"
+    },
+    {
+        "code": "print(\"Hello World\")",
+        "language": "Python",
+        "timestamp": "2024-12-11 08:08:42"
+    },
+    {
+        "code": "print(\"Hello world\")",
+        "language": "Python",
+        "timestamp": "2024-12-12 10:10:05"
+    },
+    {
+        "code": "print a=)",
+        "language": "Python",
+        "timestamp": "2024-12-12 10:11:28"
+    },
+    {
+        "code": "print(\"Hello World\")",
+        "language": "Python",
+        "timestamp": "2024-12-21 11:46:57"
+    }
+]
